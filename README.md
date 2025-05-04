@@ -4,7 +4,7 @@
 
 ## Description
 
-A full-stack plant catalogue app built with Node.js, Express, GraphQL, MongoDB, and Bootstrap. This app allows you to easily add, view, and delete plants through a beautiful and responsive interface.
+A full-stack plant catalogue app built with Node.js, Express, GraphQL, MongoDB, and Bootstrap. This app allows you to easily add, view, and delete plants through a responsive interface.
 
 ---
 
