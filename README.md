@@ -1,25 +1,24 @@
 
+# 🌿 Plant Catalogue App
 
-# Plant Catalogue App
+## 📋 Description
 
-## Description
-
-A full-stack plant catalogue app built with Node.js, Express, GraphQL, MongoDB, and Bootstrap. This app allows you to easily add, view, and delete plants through a responsive interface.
-
----
-
-## Features
-
-* **Add new plants** to your catalogue.
-* **View plant details**.
-* **Delete plants** from your catalogue.
-* Responsive design built with **Bootstrap**.
-* API powered by **GraphQL**.
-* Built with **Node.js**, **Express**, and **MongoDB**.
+A full-stack plant catalogue app built with **Node.js**, **Express**, **GraphQL**, **MongoDB**, and **Bootstrap**. This app allows you to easily add, view, and delete plants through a responsive and user-friendly interface.
 
 ---
 
-## Installation
+## 🚀 Features
+
+* ➕ Add new plants to your catalogue
+* 👁️ View plant details
+* ❌ Delete plants from your catalogue
+* 📱 Responsive design with Bootstrap
+* ⚙️ API powered by GraphQL
+* 🧩 Built with Node.js, Express, and MongoDB
+
+---
+
+## 🛠️ Installation
 
 ### 1. Clone the repository
 
@@ -41,10 +40,12 @@ npm install
 
 ### 4. Set up environment variables
 
-Create a `.env` file in the root directory and add the following variables:
+Create a `.env` file in the root directory with the following variables:
 
-* `MONGODB_URI=your-mongodb-uri`
-* `PORT=your-desired-port` (optional, default is 3000)
+```env
+MONGODB_URI=your-mongodb-uri
+PORT=your-desired-port  # optional, defaults to 3000
+```
 
 ### 5. Run the application
 
@@ -54,7 +55,7 @@ npm start
 
 ---
 
-## Technologies Used
+## 🧰 Technologies Used
 
 * **Backend**: Node.js, Express, GraphQL
 * **Database**: MongoDB
@@ -62,24 +63,25 @@ npm start
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-1. Fork the repository.
-2. Create your feature branch:
+1. Fork the repository
+2. Create a new branch
 
    ```bash
    git checkout -b feature-branch
    ```
-3. Commit your changes:
+3. Make your changes and commit
 
    ```bash
-   git commit -am 'Add new feature'
+   git commit -am "Add new feature"
    ```
-4. Push to the branch:
+4. Push to your branch
 
    ```bash
    git push origin feature-branch
    ```
-5. Open a pull request.
+5. Open a Pull Request
 
 ---
+
